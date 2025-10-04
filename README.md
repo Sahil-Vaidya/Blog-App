@@ -1,4 +1,4 @@
-# 📰 Reactjs-Complete — Full-Stack Blog Web App (React + Appwrite)
+# 📰 Full-Stack Blog Web App (React + Appwrite)
 
 > A modern, production-ready blog web app built with **React** and **Appwrite** — featuring secure authentication, database-driven posts, image uploads, and responsive UI, all ready for deployment.
 
@@ -47,6 +47,8 @@ It uses **React** for the frontend and **Appwrite** as the backend for authentic
 
 ---
 
+## 📁 Project Structure
+
 Reactjs-Complete/
 ├── public/ # Static assets
 ├── src/
@@ -62,6 +64,4 @@ Reactjs-Complete/
 └── README.md
 
 
-
-## 📁 Project Structure
 
